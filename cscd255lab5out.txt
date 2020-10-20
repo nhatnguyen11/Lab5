@@ -1,0 +1,232 @@
+Enter a valid integer 0
+Invalid
+Enter a valid integer 123
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 2
+The number has 2 of odd digits
+The number has 1 of even digits
+The number has 0 of zeros
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 3
+The prime numbers between 2 and the 123 are: 
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 101 103 107 109 113 
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 4
+Reversed order: 321
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 1
+Enter a valid integer 12
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
+
+
+ clang-7 -pthread -lm -o main lab5.c main.c
+ ./main
+Enter a valid integer 123456789
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 4
+Reversed order: 987654321
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 1
+Enter a valid integer 110022
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 2
+The number has 2 of odd digits
+The number has 2 of even digits
+The number has 2 of zeros
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 1
+Enter a valid integer 12
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 3
+The prime numbers between 2 and the 12 are: 
+2 3 5 7 11 
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
+
+
+
+
+ clang-7 -pthread -lm -o main lab5.c main.c
+ ./main
+Enter a valid integer -1
+Invalid
+Enter a valid integer 0
+Invalid
+Enter a valid integer -9
+Invalid
+Enter a valid integer 123
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 0
+Invalid choice 
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 9
+Invalid choice 
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
+
+ clang-7 -pthread -lm -o main lab5.c main.c
+ ./main
+Enter a valid integer 0
+Invalid
+Enter a valid integer 123
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 4
+Reversed order: 321
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 2
+The number has 2 of odd digits
+The number has 1 of even digits
+The number has 0 of zeros
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 1
+Enter a valid integer 5
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
+
+ clang-7 -pthread -lm -o main lab5.c main.c
+ ./main
+Enter a valid integer 589647123
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 2
+The number has 5 of odd digits
+The number has 4 of even digits
+The number has 0 of zeros
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 4
+Reversed order: 321746985
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 1
+Enter a valid integer 49
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 3
+The prime numbers between 2 and the 49 are: 
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
+
